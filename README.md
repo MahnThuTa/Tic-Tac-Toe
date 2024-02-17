@@ -9,7 +9,7 @@
 
 #### Features:
 
-* Use Tabulate art
+* Tabulate
 * If one of the players won, the other player have to do whatever the winner wants.
 
 #### How to use (Guide):
